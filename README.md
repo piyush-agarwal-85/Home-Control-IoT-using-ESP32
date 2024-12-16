@@ -1,5 +1,5 @@
 # Home-Control-IoT-using-ESP32
-This Project Demonstrates making a Home Appliance Control System using ESP32 Microcontroller which can be controlled remotely with an application made on MIT app Inventor
+Developing a home automation system using the ESP32, enabling remote control of appliances with app made on MIT app Inventor via IoT.
 
 ## Components Used
 - ESP32
